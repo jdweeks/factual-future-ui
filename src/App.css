@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  background-color: #f2f2f2;
+}
+
+.articleCard {
+  background-color: #fff;
+  border: 1px solid #cdcdcd;
+  box-shadow: 0 0 10px #ddd;
+  padding: 40px 20px;
+  margin-bottom: 15px;
+}
